@@ -1,4 +1,5 @@
-﻿The Project Gutenberg eBook of The Adventures of Tom Sawyer, by Mark Twain
+﻿The Project Gutenberg eBook of The Adventures of Tom Sawyer, by Mark
+Twain
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -13,13 +14,14 @@ Title: The Adventures of Tom Sawyer
 Author: Mark Twain (Samuel Clemens)
 
 Release Date: July, 1993 [eBook #74]
-[Most recently updated: June 19, 2023]
+[Most recently updated: July 1, 2023]
 
 Language: English
 
 Produced by: David Widger
 
-*** START OF THE PROJECT GUTENBERG EBOOK THE ADVENTURES OF TOM SAWYER ***
+*** START OF THE PROJECT GUTENBERG EBOOK THE ADVENTURES OF TOM
+SAWYER ***
 
 
 
@@ -942,12 +944,12 @@ representing a forty-foot wheel.
  The left hand began to describe circles.
 
 “Stop the stabboard! Ting-a-ling-ling! Stop the labboard! Come ahead on
-the stabboard! Stop her! Let your outside turn over slow! Ting-a-ling-ling!
-Chow-ow-ow! Get out that head-line! _lively_ now! Come—out with
-your spring-line—what’re you about there! Take a turn round that stump
-with the bight of it! Stand by that stage, now—let her go! Done with
-the engines, sir! Ting-a-ling-ling! SH’T! S’H’T! SH’T!” (trying the
-gauge-cocks).
+the stabboard! Stop her! Let your outside turn over slow!
+Ting-a-ling-ling! Chow-ow-ow! Get out that head-line! _lively_ now!
+Come—out with your spring-line—what’re you about there! Take a turn
+round that stump with the bight of it! Stand by that stage, now—let her
+go! Done with the engines, sir! Ting-a-ling-ling! SH’T! S’H’T! SH’T!”
+(trying the gauge-cocks).
 
 Tom went on whitewashing—paid no attention to the steamboat. Ben stared
 a moment and then said: “_Hi-Yi! You’re_ up a stump, ain’t you!”
@@ -2057,8 +2059,8 @@ was.”
 “Aha! Talk about trying to cure warts with spunk-water such a blame fool
 way as that! Why, that ain’t a-going to do any good. You got to go all
 by yourself, to the middle of the woods, where you know there’s a
-spunk-water stump, and just as it’s midnight you back up against the stump
-and jam your hand in and say:
+spunk-water stump, and just as it’s midnight you back up against the
+stump and jam your hand in and say:
 
 ‘Barley-corn, barley-corn, injun-meal shorts, Spunk-water, spunk-water,
 swaller these warts,’
@@ -3218,7 +3220,7 @@ Tom!”
 Tom, quaking with fear, yielded, and put his eye to the crack. His
 whisper was hardly audible when he said:
 
-“Oh, Huck, _its a stray dog_!”
+“Oh, Huck, _it’s a stray dog_!”
 
 “Quick, Tom, quick! Who does he mean?”
 
@@ -5566,12 +5568,12 @@ attempt at applause, but it died early.
 Down,” and other declamatory gems. Then there were reading exercises,
 and a spelling fight. The meagre Latin class recited with honor. The
 prime feature of the evening was in order, now—original “compositions”
- by the young ladies. Each in her turn stepped forward to the edge of the
+by the young ladies. Each in her turn stepped forward to the edge of the
 platform, cleared her throat, held up her manuscript (tied with dainty
 ribbon), and proceeded to read, with labored attention to “expression”
- and punctuation. The themes were the same that had been illuminated upon
-similar occasions by their mothers before them, their grandmothers,
-and doubtless all their ancestors in the female line clear back to the
+and punctuation. The themes were the same that had been illuminated upon
+similar occasions by their mothers before them, their grandmothers, and
+doubtless all their ancestors in the female line clear back to the
 Crusades. “Friendship” was one; “Memories of Other Days”; “Religion in
 History”; “Dream Land”; “The Advantages of Culture”; “Forms of Political
 Government Compared and Contrasted”; “Melancholy”; “Filial Love”; “Heart
@@ -5582,17 +5584,17 @@ melancholy; another was a wasteful and opulent gush of “fine language”;
 another was a tendency to lug in by the ears particularly prized words
 and phrases until they were worn entirely out; and a peculiarity that
 conspicuously marked and marred them was the inveterate and intolerable
-sermon that wagged its crippled tail at the end of each and every one
-of them. No matter what the subject might be, a brainracking effort was
+sermon that wagged its crippled tail at the end of each and every one of
+them. No matter what the subject might be, a brainracking effort was
 made to squirm it into some aspect or other that the moral and religious
 mind could contemplate with edification. The glaring insincerity of
 these sermons was not sufficient to compass the banishment of the
 fashion from the schools, and it is not sufficient today; it never will
-be sufficient while the world stands, perhaps. There is no school in
-all our land where the young ladies do not feel obliged to close their
+be sufficient while the world stands, perhaps. There is no school in all
+our land where the young ladies do not feel obliged to close their
 compositions with a sermon; and you will find that the sermon of the
-most frivolous and the least religious girl in the school is always
-the longest and the most relentlessly pious. But enough of this. Homely
+most frivolous and the least religious girl in the school is always the
+longest and the most relentlessly pious. But enough of this. Homely
 truth is unpalatable.
 
 Let us return to the “Examination.” The first composition that was read
@@ -6396,7 +6398,7 @@ or a chunk. At last Tom said:
 
 “I know it, but then there’s another thing.”
 
-“What’s that?”.
+“What’s that?”
 
 “Why, we only guessed at the time. Like enough it was too late or too
 early.”
@@ -9173,7 +9175,7 @@ exists because of the efforts of hundreds of volunteers and donations
 from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™'s
+assistance they need are critical to reaching Project Gutenberg™’s
 goals and ensuring that the Project Gutenberg™ collection will
 remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
@@ -9192,7 +9194,7 @@ state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation’s EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
+U.S. federal laws and your state’s laws.
 
 The Foundation’s business office is located at 809 North 1500 West,
 Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
