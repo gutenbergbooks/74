@@ -14,7 +14,7 @@ Title: The Adventures of Tom Sawyer
 Author: Mark Twain (Samuel Clemens)
 
 Release Date: July, 1993 [eBook #74]
-[Most recently updated: July 1, 2023]
+[Most recently updated: August 9, 2023]
 
 Language: English
 
@@ -557,19 +557,20 @@ and how is a body to know what’s coming? He ’pears to know just how long
 he can torment me before I get my dander up, and he knows if he can make
 out to put me off for a minute or make me laugh, it’s all down again and
 I can’t hit him a lick. I ain’t doing my duty by that boy, and that’s
-the Lord’s truth, goodness knows. Spare the rod and spile the child,
-as the Good Book says. I’m a laying up sin and suffering for us both,
-I know. He’s full of the Old Scratch, but laws-a-me! he’s my own
-dead sister’s boy, poor thing, and I ain’t got the heart to lash him,
+the Lord’s truth, goodness knows. Spare the rod and spile the child, as
+the Good Book says. I’m a laying up sin and suffering for us both, I
+know. He’s full of the Old Scratch, but laws-a-me! he’s my own dead
+sister’s boy, poor thing, and I ain’t got the heart to lash him,
 somehow. Every time I let him off, my conscience does hurt me so, and
 every time I hit him my old heart most breaks. Well-a-well, man that is
-born of woman is of few days and full of trouble, as the Scripture
-says, and I reckon it’s so. He’ll play hookey this evening, * and [*
-Southwestern for “afternoon”] I’ll just be obleeged to make him work,
-tomorrow, to punish him. It’s mighty hard to make him work Saturdays,
-when all the boys is having holiday, but he hates work more than he
-hates anything else, and I’ve _got_ to do some of my duty by him, or
-I’ll be the ruination of the child.”
+born of woman is of few days and full of trouble, as the Scripture says,
+and I reckon it’s so. He’ll play hookey this evening,[*] and I’ll just
+be obleeged to make him work, tomorrow, to punish him. It’s mighty hard
+to make him work Saturdays, when all the boys is having holiday, but he
+hates work more than he hates anything else, and I’ve _got_ to do some
+of my duty by him, or I’ll be the ruination of the child.”
+
+[*] Southwestern for “afternoon”
 
 Tom did play hookey, and he had a very good time. He got back home
 barely in season to help Jim, the small colored boy, saw next-day’s wood
@@ -657,7 +658,7 @@ man’s are to a man, but because a new and powerful interest bore
 them down and drove them out of his mind for the time—just as men’s
 misfortunes are forgotten in the excitement of new enterprises. This new
 interest was a valued novelty in whistling, which he had just acquired
-from a negro, and he was suffering to practise it un-disturbed. It
+from a negro, and he was suffering to practise it undisturbed. It
 consisted in a peculiar bird-like turn, a sort of liquid warble,
 produced by touching the tongue to the roof of the mouth at short
 intervals in the midst of the music—the reader probably remembers how to
@@ -1642,7 +1643,7 @@ Tom still hung fire.
 “Now I know you’ll tell me,” said the lady. “The names of the first two
 disciples were—”
 
-“_David And Goliah!_”
+“_David and Goliah!_”
 
 Let us draw the curtain of charity over the rest of the scene.
 
@@ -1694,9 +1695,11 @@ voice began on a medium key and climbed steadily up till it reached a
 certain point, where it bore with strong emphasis upon the topmost word
 and then plunged down as if from a spring-board:
 
-Shall I be car-ri-ed toe the skies, on flow’ry _beds_ of ease,
+  Shall I be car-ri-ed toe the skies, on flow’ry _beds_
+                                                        of ease,
 
-Whilst others fight to win the prize, and sail thro’ _blood_-y seas?
+  Whilst others fight to win the prize, and sail thro’ _blood_
+                                                        -y seas?
 
 He was regarded as a wonderful reader. At church “sociables” he was
 always called upon to read poetry; and when he was through, the ladies
@@ -2062,8 +2065,8 @@ by yourself, to the middle of the woods, where you know there’s a
 spunk-water stump, and just as it’s midnight you back up against the
 stump and jam your hand in and say:
 
-‘Barley-corn, barley-corn, injun-meal shorts, Spunk-water, spunk-water,
-swaller these warts,’
+    ‘Barley-corn, barley-corn, injun-meal shorts,
+    Spunk-water, spunk-water, swaller these warts,’
 
 and then walk away quick, eleven steps, with your eyes shut, and then
 turn around three times and walk home without speaking to anybody.
@@ -2668,7 +2671,7 @@ put his hand there and uttered this incantation impressively:
 
 Then he scraped away the dirt, and exposed a pine shingle. He took it
 up and disclosed a shapely little treasure-house whose bottom and sides
-were of shingles. In it lay a marble. Tom’s astonishment was bound-less!
+were of shingles. In it lay a marble. Tom’s astonishment was boundless!
 He scratched his head with a perplexed air, and said:
 
 “Well, that beats anything!”
@@ -3151,10 +3154,11 @@ He picked up a clean pine shingle that lay in the moon-light, took a
 little fragment of “red keel” out of his pocket, got the moon on
 his work, and painfully scrawled these lines, emphasizing each slow
 down-stroke by clamping his tongue between his teeth, and letting up the
-pressure on the up-strokes. [See next page.]
+pressure on the up-strokes.
 
-“Huck Finn and Tom Sawyer swears they will keep mum about This and They
-wish They may Drop down dead in Their Tracks if They ever Tell and Rot.”
+  “Huck Finn and Tom Sawyer swears they will keep mum about This and
+   They wish They may Drop down dead in Their Tracks if They ever Tell
+   and Rot.”
 
 Huckleberry was filled with admiration of Tom’s facility in writing, and
 the sublimity of his language. He at once took a pin from his lapel and
@@ -3953,7 +3957,7 @@ plank.”
 women.”
 
 “No,” assented Tom, “they don’t kill the women—they’re too noble. And
-the women’s always beautiful, too.
+the women’s always beautiful, too.”
 
 “And don’t they wear the bulliest clothes! Oh no! All gold and silver
 and di’monds,” said Joe, with enthusiasm.
@@ -4155,7 +4159,7 @@ gravity.
 
 “By jings, I wish I was over there, now,” said Joe.
 
-“I do too” said Huck “I’d give heaps to know who it is.”
+“I do too,” said Huck. “I’d give heaps to know who it is.”
 
 The boys still listened and watched. Presently a revealing thought
 flashed through Tom’s mind, and he exclaimed:
@@ -5717,7 +5721,7 @@ bald pate—for the signpainter’s boy had _gilded_ it!
 
 That broke up the meeting. The boys were avenged. Vacation had come.
 
-NOTE:—The pretended “compositions” quoted in this chapter are taken
+[*] NOTE:—The pretended “compositions” quoted in this chapter are taken
 without alteration from a volume entitled “Prose and Poetry, by a
 Western Lady”—but they are exactly and precisely after the schoolgirl
 pattern, and hence are much happier than any mere imitations could be.
@@ -5932,7 +5936,7 @@ And I don’t forget it, I don’t. Often I says to myself, says I, ‘I used
 to mend all the boys’ kites and things, and show ’em where the good
 fishin’ places was, and befriend ’em what I could, and now they’ve
 all forgot old Muff when he’s in trouble; but Tom don’t, and Huck
-don’t—_they_ don’t forget him, says I, ‘and I don’t forget them.’ Well,
+don’t—_they_ don’t forget him,’ says I, ‘and I don’t forget them.’ Well,
 boys, I done an awful thing—drunk and crazy at the time—that’s the only
 way I account for it—and now I got to swing for it, and it’s right.
 Right, and _best_, too, I reckon—hope so, anyway. Well, we won’t talk
@@ -6137,7 +6141,7 @@ other half he was afraid he would be. He felt sure he never could draw a
 safe breath again until that man was dead and he had seen the corpse.
 
 Rewards had been offered, the country had been scoured, but no Injun
-Joe was found. One of those omniscient and aweinspiring marvels, a
+Joe was found. One of those omniscient and awe-inspiring marvels, a
 detective, came up from St. Louis, moused around, shook his head, looked
 wise, and made that sort of astounding success which members of that
 craft usually achieve. That is to say, he “found a clew.” But you can’t
