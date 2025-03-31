@@ -13,11 +13,9 @@ Title: The Adventures of Tom Sawyer
 Author: Mark Twain (Samuel Clemens)
 
 Release Date: July, 1993 [eBook #74]
-[Most recently updated: March 29, 2021]
+[Most recently updated: June 19, 2023]
 
 Language: English
-
-Character set encoding: UTF-8
 
 Produced by: David Widger
 
@@ -39,7 +37,7 @@ By Mark Twain
 CONTENTS
 
 
-CHAPTER I. Y-o-u-u Tom-Aunt Polly Decides Upon her Duty—Tom Practices
+CHAPTER I. Y-o-u-u Tom—Aunt Polly Decides Upon her Duty—Tom Practices
 Music—The Challenge—A Private Entrance
 
 CHAPTER II. Strong Temptations—Strategic Movements—The Innocents
@@ -488,7 +486,7 @@ HARTFORD, 1876.
 CHAPTER I
 
 
-“TOM!”
+“Tom!”
 
 No answer.
 
@@ -670,7 +668,7 @@ astronomer.
 
 The summer evenings were long. It was not dark, yet. Presently Tom
 checked his whistle. A stranger was before him—a boy a shade larger
-than himself. A new-comer of any age or either sex was an im-pressive
+than himself. A new-comer of any age or either sex was an impressive
 curiosity in the poor little shabby village of St. Petersburg. This boy
 was well dressed, too—well dressed on a week-day. This was simply
 astounding. His cap was a dainty thing, his close-buttoned blue cloth
@@ -843,7 +841,7 @@ firmness.
 CHAPTER II
 
 
-SATURDAY morning was come, and all the summer world was bright and
+Saturday morning was come, and all the summer world was bright and
 fresh, and brimming with life. There was a song in every heart; and if
 the heart was young the music issued at the lips. There was cheer in
 every face and a spring in every step. The locust-trees were in bloom
@@ -1066,7 +1064,7 @@ report.
 CHAPTER III
 
 
-TOM presented himself before Aunt Polly, who was sitting by an
+Tom presented himself before Aunt Polly, who was sitting by an
 open window in a pleasant rearward apartment, which was bedroom,
 breakfast-room, dining-room, and library, combined. The balmy summer
 air, the restful quiet, the odor of the flowers, and the drowsing
@@ -1132,7 +1130,7 @@ marched away, and Tom turned homeward alone.
 As he was passing by the house where Jeff Thatcher lived, he saw a new
 girl in the garden—a lovely little blue-eyed creature with yellow
 hair plaited into two long-tails, white summer frock and embroidered
-pan-talettes. The fresh-crowned hero fell without firing a shot. A
+pantalettes. The fresh-crowned hero fell without firing a shot. A
 certain Amy Lawrence vanished out of his heart and left not even a
 memory of herself behind. He had thought he loved her to distraction;
 he had regarded his passion as adoration; and behold it was only a poor
@@ -1286,7 +1284,7 @@ note of the omission.
 CHAPTER IV
 
 
-THE sun rose upon a tranquil world, and beamed down upon the peaceful
+The sun rose upon a tranquil world, and beamed down upon the peaceful
 village like a benediction. Breakfast over, Aunt Polly had family
 worship: it began with a prayer built from the ground up of solid
 courses of Scriptural quotations, welded together with a thin mortar of
@@ -1440,7 +1438,7 @@ blue tickets equalled a red one, and could be exchanged for it; ten red
 tickets equalled a yellow one; for ten yellow tickets the superintendent
 gave a very plainly bound Bible (worth forty cents in those easy
 times) to the pupil. How many of my readers would have the industry and
-application to memorize two thousand verses, even for a Dore Bible? And
+application to memorize two thousand verses, even for a Doré Bible? And
 yet Mary had acquired two Bibles in this way—it was the patient work of
 two years—and a boy of German parentage had won four or five. He once
 recited three thousand verses without stopping; but the strain upon his
@@ -1652,7 +1650,7 @@ Let us draw the curtain of charity over the rest of the scene.
 CHAPTER V
 
 
-ABOUT half-past ten the cracked bell of the small church began to ring,
+About half-past ten the cracked bell of the small church began to ring,
 and presently the people began to gather for the morning sermon. The
 Sunday-school children distributed themselves about the house and
 occupied pews with their parents, so as to be under supervision. Aunt
@@ -1826,7 +1824,7 @@ him to carry it off.
 CHAPTER VI
 
 
-MONDAY morning found Tom Sawyer miserable. Monday morning always found
+Monday morning found Tom Sawyer miserable. Monday morning always found
 him so—because it began another week’s slow suffering in school. He
 generally began that day with wishing he had had no intervening holiday,
 it made the going into captivity and fetters again so much more odious.
@@ -2337,7 +2335,7 @@ ostentation for months.
 CHAPTER VII
 
 
-THE harder Tom tried to fasten his mind on his book, the more his ideas
+The harder Tom tried to fasten his mind on his book, the more his ideas
 wandered. So at last, with a sigh and a yawn, he gave it up. It seemed
 to him that the noon recess would never come. The air was utterly dead.
 There was not a breath stirring. It was the sleepiest of sleepy days.
@@ -2601,7 +2599,7 @@ her to exchange sorrows with.
 CHAPTER VIII
 
 
-TOM dodged hither and thither through lanes until he was well out of the
+Tom dodged hither and thither through lanes until he was well out of the
 track of returning scholars, and then fell into a moody jog. He crossed
 a small “branch” two or three times, because of a prevailing juvenile
 superstition that to cross water baffled pursuit. Half an hour later
@@ -2795,7 +2793,7 @@ President of the United States forever.
 CHAPTER IX
 
 
-AT half-past nine, that night, Tom and Sid were sent to bed, as usual.
+At half-past nine, that night, Tom and Sid were sent to bed, as usual.
 They said their prayers, and Sid was soon asleep. Tom lay awake and
 waited, in restless impatience. When it seemed to him that it must be
 nearly daylight, he heard the clock strike ten! This was despair. He
@@ -3071,7 +3069,7 @@ moon’s. The stillness was complete again, too.
 CHAPTER X
 
 
-THE two boys flew on and on, toward the village, speechless with
+The two boys flew on and on, toward the village, speechless with
 horror. They glanced backward over their shoulders from time to time,
 apprehensively, as if they feared they might be followed. Every stump
 that started up in their path seemed a man and an enemy, and made them
@@ -3348,11 +3346,11 @@ This final feather broke the camel’s back.
 CHAPTER XI
 
 
-CLOSE upon the hour of noon the whole village was suddenly electrified
+Close upon the hour of noon the whole village was suddenly electrified
 with the ghastly news. No need of the as yet un-dreamed-of telegraph;
 the tale flew from man to man, from group to group, from house to house,
 with little less than telegraphic speed. Of course the schoolmaster gave
-holi-day for that afternoon; the town would have thought strangely of
+holiday for that afternoon; the town would have thought strangely of
 him if he had not.
 
 A gory knife had been found close to the murdered man, and it had been
@@ -3527,7 +3525,7 @@ the courts at present.
 CHAPTER XII
 
 
-ONE of the reasons why Tom’s mind had drifted away from its secret
+One of the reasons why Tom’s mind had drifted away from its secret
 troubles was, that it had found a new and weighty matter to interest
 itself about. Becky Thatcher had stopped coming to school. Tom had
 struggled with his pride a few days, and tried to “whistle her down the
@@ -3712,7 +3710,7 @@ crestfallen.
 CHAPTER XIII
 
 
-TOM’S mind was made up now. He was gloomy and desperate. He was a
+Tom’s mind was made up now. He was gloomy and desperate. He was a
 forsaken, friendless boy, he said; nobody loved him; when they found out
 what they had driven him to, perhaps they would be sorry; he had tried
 to do right and get along, but they would not let him; since nothing
@@ -4002,7 +4000,7 @@ inconsistent pirates fell peacefully to sleep.
 CHAPTER XIV
 
 
-WHEN Tom awoke in the morning, he wondered where he was. He sat up and
+When Tom awoke in the morning, he wondered where he was. He sat up and
 rubbed his eyes and looked around. Then he comprehended. It was the cool
 gray dawn, and there was a delicious sense of repose and peace in the
 deep pervading calm and silence of the woods. Not a leaf stirred; not
@@ -4383,7 +4381,7 @@ other pirates got ready to fish and explore.
 CHAPTER XVI
 
 
-AFTER dinner all the gang turned out to hunt for turtle eggs on the bar.
+After dinner all the gang turned out to hunt for turtle eggs on the bar.
 They went about poking sticks into the sand, and when they found a soft
 place they went down on their knees and dug with their hands. Sometimes
 they would take fifty or sixty eggs out of one hole. They were perfectly
@@ -4730,7 +4728,7 @@ present.
 CHAPTER XVII
 
 
-BUT there was no hilarity in the little town that same tranquil Saturday
+But there was no hilarity in the little town that same tranquil Saturday
 afternoon. The Harpers, and Aunt Polly’s family, were being put into
 mourning, with great grief and many tears. An unusual quiet possessed
 the village, although it was ordinarily quiet enough, in all conscience.
@@ -4854,7 +4852,7 @@ expressed the most gratefulness to God and affection for himself.
 CHAPTER XVIII
 
 
-THAT was Tom’s great secret—the scheme to return home with his brother
+That was Tom’s great secret—the scheme to return home with his brother
 pirates and attend their own funerals. They had paddled over to the
 Missouri shore on a log, at dusk on Saturday, landing five or six miles
 below the village; they had slept in the woods at the edge of the town
@@ -5207,7 +5205,7 @@ account, and to hate him forever, into the bargain.
 CHAPTER XIX
 
 
-TOM arrived at home in a dreary mood, and the first thing his aunt said
+Tom arrived at home in a dreary mood, and the first thing his aunt said
 to him showed him that he had brought his sorrows to an unpromising
 market:
 
@@ -5316,7 +5314,7 @@ he’d committed a million sins!”
 CHAPTER XX
 
 
-THERE was something about Aunt Polly’s manner, when she kissed Tom, that
+There was something about Aunt Polly’s manner, when she kissed Tom, that
 swept away his low spirits and made him lighthearted and happy again. He
 started to school and had the luck of coming upon Becky Thatcher at the
 head of Meadow Lane. His mood always determined his manner. Without a
@@ -5499,7 +5497,7 @@ lingering dreamily in his ear—
 CHAPTER XXI
 
 
-VACATION was approaching. The schoolmaster, always severe, grew severer
+Vacation was approaching. The schoolmaster, always severe, grew severer
 and more exacting than ever, for he wanted the school to make a good
 showing on “Examination” day. His rod and his ferule were seldom idle
 now—at least among the smaller pupils. Only the biggest boys, and young
@@ -5630,27 +5628,34 @@ stanzas of it will do:
 
 “A MISSOURI MAIDEN’S FAREWELL TO ALABAMA
 
-“Alabama, goodbye! I love thee well! But yet for a while do I leave thee
-now! Sad, yes, sad thoughts of thee my heart doth swell, And burning
-recollections throng my brow! For I have wandered through thy flowery
-woods; Have roamed and read near Tallapoosa’s stream; Have listened to
-Tallassee’s warring floods, And wooed on Coosa’s side Aurora’s beam.
+“Alabama, goodbye! I love thee well!
+    But yet for a while do I leave thee now!
+Sad, yes, sad thoughts of thee my heart doth swell,
+    And burning recollections throng my brow!
+For I have wandered through thy flowery woods;
+    Have roamed and read near Tallapoosa’s stream;
+Have listened to Tallassee’s warring floods,
+    And wooed on Coosa’s side Aurora’s beam.
 
-“Yet shame I not to bear an o’erfull heart, Nor blush to turn behind
-my tearful eyes; ’Tis from no stranger land I now must part, ’Tis to no
-strangers left I yield these sighs. Welcome and home were mine within
-this State, Whose vales I leave—whose spires fade fast from me And cold
-must be mine eyes, and heart, and tete, When, dear Alabama! they turn
-cold on thee!” There were very few there who knew what “tete” meant, but
-the poem was very satisfactory, nevertheless.
+“Yet shame I not to bear an o’erfull heart,
+    Nor blush to turn behind my tearful eyes;
+’Tis from no stranger land I now must part,
+    ’Tis to no strangers left I yield these sighs.
+Welcome and home were mine within this State,
+    Whose vales I leave—whose spires fade fast from me
+And cold must be mine eyes, and heart, and tête,
+    When, dear Alabama! they turn cold on thee!”
+
+There were very few there who knew what “_tête_” meant, but the poem
+was very satisfactory, nevertheless.
 
 Next appeared a dark-complexioned, black-eyed, black-haired young lady,
 who paused an impressive moment, assumed a tragic expression, and began
 to read in a measured, solemn tone:
 
-“A VISION
+                              A VISION
 
-“Dark and tempestuous was night. Around the throne on high not a single
+Dark and tempestuous was night. Around the throne on high not a single
 star quivered; but the deep intonations of the heavy thunder constantly
 vibrated upon the ear; whilst the terrific lightning revelled in angry
 mood through the cloudy chambers of heaven, seeming to scorn the power
@@ -5658,19 +5663,21 @@ exerted over its terror by the illustrious Franklin! Even the boisterous
 winds unanimously came forth from their mystic homes, and blustered
 about as if to enhance by their aid the wildness of the scene.
 
-“At such a time, so dark, so dreary, for human sympathy my very spirit
+At such a time, so dark, so dreary, for human sympathy my very spirit
 sighed; but instead thereof,
 
-“‘My dearest friend, my counsellor, my comforter and guide—My joy in
-grief, my second bliss in joy,’ came to my side. She moved like one of
-those bright beings pictured in the sunny walks of fancy’s Eden by
-the romantic and young, a queen of beauty unadorned save by her own
-transcendent loveliness. So soft was her step, it failed to make even a
-sound, and but for the magical thrill imparted by her genial touch,
-as other unobtrusive beauties, she would have glided away
-unperceived—unsought. A strange sadness rested upon her features, like
-icy tears upon the robe of December, as she pointed to the contending
-elements without, and bade me contemplate the two beings presented.”
+     ‘My dearest friend, my counsellor, my comforter and guide—
+     My joy in grief, my second bliss in joy,’ came to my side.
+
+She moved like one of those bright beings pictured in the sunny walks
+of fancy’s Eden by the romantic and young, a queen of beauty unadorned
+save by her own transcendent loveliness. So soft was her step, it
+failed to make even a sound, and but for the magical thrill imparted by
+her genial touch, as other unobtrusive beauties, she would have glided
+away unperceived—unsought. A strange sadness rested upon her features,
+like icy tears upon the robe of December, as she pointed to the
+contending elements without, and bade me contemplate the two beings
+presented.
 
 This nightmare occupied some ten pages of manuscript and wound up with a
 sermon so destructive of all hope to non-Presbyterians that it took
@@ -5719,7 +5726,7 @@ pattern, and hence are much happier than any mere imitations could be.
 CHAPTER XXII
 
 
-TOM joined the new order of Cadets of Temperance, being attracted by the
+Tom joined the new order of Cadets of Temperance, being attracted by the
 showy character of their “regalia.” He promised to abstain from smoking,
 chewing, and profanity as long as he remained a member. Now he found out
 a new thing—namely, that to promise not to do a thing is the surest way
@@ -5827,7 +5834,7 @@ stolen melon. Poor lads! they—like Tom—had suffered a relapse.
 CHAPTER XXIII
 
 
-AT last the sleepy atmosphere was stirred—and vigorously: the murder
+At last the sleepy atmosphere was stirred—and vigorously: the murder
 trial came on in the court. It became the absorbing topic of village
 talk immediately. Tom could not get away from it. Every reference to
 the murder sent a shudder to his heart, for his troubled conscience
@@ -6096,7 +6103,7 @@ way through all opposers, and was gone!
 CHAPTER XXIV
 
 
-TOM was a glittering hero once more—the pet of the old, the envy of the
+Tom was a glittering hero once more—the pet of the old, the envy of the
 young. His name even went into immortal print, for the village paper
 magnified him. There were some that believed he would be President, yet,
 if he escaped hanging.
@@ -6144,7 +6151,7 @@ weight of apprehension.
 CHAPTER XXV
 
 
-THERE comes a time in every rightly-constructed boy’s life when he has
+There comes a time in every rightly-constructed boy’s life when he has
 a raging desire to go somewhere and dig for hidden treasure. This desire
 suddenly came upon Tom one day. He sallied out to find Joe Harper,
 but failed of success. Next he sought Ben Rogers; he had gone fishing.
@@ -6473,7 +6480,7 @@ adorned the rearward side of Cardiff Hill.
 CHAPTER XXVI
 
 
-ABOUT noon the next day the boys arrived at the dead tree; they had come
+About noon the next day the boys arrived at the dead tree; they had come
 for their tools. Tom was impatient to go to the haunted house; Huck was
 measurably so, also—but suddenly said:
 
@@ -6823,7 +6830,7 @@ would be a palpable improvement, he thought.
 CHAPTER XXVII
 
 
-THE adventure of the day mightily tormented Tom’s dreams that night.
+The adventure of the day mightily tormented Tom’s dreams that night.
 Four times he had his hands on that rich treasure and four times
 it wasted to nothingness in his fingers as sleep forsook him and
 wakefulness brought back the hard reality of his misfortune. As he lay
@@ -6947,7 +6954,7 @@ out he couldn’t get his revenge, and be going right after that money.”
 CHAPTER XXVIII
 
 
-THAT night Tom and Huck were ready for their adventure. They hung about
+That night Tom and Huck were ready for their adventure. They hung about
 the neighborhood of the tavern until after nine, one watching the alley
 at a distance and the other the tavern door. Nobody entered the alley or
 left it; nobody resembling the Spaniard entered or left the tavern
@@ -7082,7 +7089,7 @@ just skip right around and maow.”
 CHAPTER XXIX
 
 
-THE first thing Tom heard on Friday morning was a glad piece of
+The first thing Tom heard on Friday morning was a glad piece of
 news—Judge Thatcher’s family had come back to town the night before.
 Both Injun Joe and the treasure sunk into secondary importance for a
 moment, and Becky took the chief place in the boy’s interest. He saw her
@@ -7354,7 +7361,7 @@ fast as his legs could carry him.
 CHAPTER XXX
 
 
-AS the earliest suspicion of dawn appeared on Sunday morning, Huck came
+As the earliest suspicion of dawn appeared on Sunday morning, Huck came
 groping up the hill and rapped gently at the old Welshman’s door. The
 inmates were asleep, but it was a sleep that was set on a hair-trigger,
 on account of the exciting episode of the night. A call came from a
@@ -7714,7 +7721,7 @@ enough, or strength enough, either, to go on searching.”
 CHAPTER XXXI
 
 
-NOW to return to Tom and Becky’s share in the picnic. They tripped along
+Now to return to Tom and Becky’s share in the picnic. They tripped along
 the murky aisles with the rest of the company, visiting the familiar
 wonders of the cave—wonders dubbed with rather over-descriptive names,
 such as “The Drawing-Room,” “The Cathedral,” “Aladdin’s Palace,” and
@@ -8055,7 +8062,7 @@ bodings of coming doom.
 CHAPTER XXXII
 
 
-TUESDAY afternoon came, and waned to the twilight. The village of St.
+Tuesday afternoon came, and waned to the twilight. The village of St.
 Petersburg still mourned. The lost children had not been found. Public
 prayers had been offered up for them, and many and many a private prayer
 that had the petitioner’s whole heart in it; but still no good news came
@@ -8165,7 +8172,7 @@ The water was brought and thrown into Tom’s face.
 CHAPTER XXXIII
 
 
-WITHIN a few minutes the news had spread, and a dozen skiff-loads of
+Within a few minutes the news had spread, and a dozen skiff-loads of
 men were on their way to McDougal’s cave, and the ferryboat, well filled
 with passengers, soon followed. Tom Sawyer was in the skiff that bore
 Judge Thatcher.
@@ -8413,7 +8420,7 @@ died—away out at the mouth of the cave—five mile from here.”
 “No, Tom, it wouldn’t. It would hang round the money. I know the ways of
 ghosts, and so do you.”
 
-Tom began to fear that Huck was right. Mis-givings gathered in his mind.
+Tom began to fear that Huck was right. Misgivings gathered in his mind.
 But presently an idea occurred to him—
 
 “Lookyhere, Huck, what fools we’re making of ourselves! Injun Joe’s
@@ -8583,7 +8590,7 @@ Then she left.
 CHAPTER XXXIV
 
 
-HUCK said: “Tom, we can slope, if we can find a rope. The window ain’t
+Huck said: “Tom, we can slope, if we can find a rope. The window ain’t
 high from the ground.”
 
 “Shucks! what do you want to slope for?”
@@ -8700,12 +8707,12 @@ more than that in property.
 CHAPTER XXXV
 
 
-THE reader may rest satisfied that Tom’s and Huck’s windfall made a
+The reader may rest satisfied that Tom’s and Huck’s windfall made a
 mighty stir in the poor little village of St. Petersburg. So vast a
 sum, all in actual cash, seemed next to incredible. It was talked
 about, gloated over, glorified, until the reason of many of the citizens
 tottered under the strain of the unhealthy excitement. Every “haunted”
- house in St. Petersburg and the neighboring villages was dissected,
+house in St. Petersburg and the neighboring villages was dissected,
 plank by plank, and its foundations dug up and ransacked for hidden
 treasure—and not by boys, but men—pretty grave, unromantic men, too,
 some of them. Wherever Tom and Huck appeared they were courted, admired,
@@ -8886,7 +8893,7 @@ she’ll be proud she snaked me in out of the wet.”
 
 CONCLUSION
 
-SO endeth this chronicle. It being strictly a history of a _boy_, it
+So endeth this chronicle. It being strictly a history of a _boy_, it
 must stop here; the story could not go much further without becoming the
 history of a _man_. When one writes a novel about grown people, he knows
 exactly where to stop—that is, with a marriage; but when he writes of
@@ -8903,11 +8910,7 @@ part of their lives at present.
 
 *** END OF THE PROJECT GUTENBERG EBOOK THE ADVENTURES OF TOM SAWYER ***
 
-***** This file should be named 74-0.txt or 74-0.zip *****
-This and all associated files of various formats will be found in:
-    https://www.gutenberg.org/7/74/
-
-Updated editions will replace the previous one—the old editions will
+Updated editions will replace the previous one--the old editions will
 be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
@@ -8916,7 +8919,7 @@ so the Foundation (and you!) can copy and distribute it in the
 United States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
 concept and trademark. Project Gutenberg is a registered trademark,
 and may not be used if you charge for an eBook, except by following
 the terms of the trademark license, including paying royalties for use
@@ -8924,7 +8927,7 @@ of the Project Gutenberg trademark. If you do not charge anything for
 copies of this eBook, complying with the trademark license is very
 easy. You may use this eBook for nearly any purpose such as creation
 of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
+Gutenberg eBooks may be modified and printed and given away--you may
 do practically ANYTHING in the United States with eBooks not protected
 by U.S. copyright law. Redistribution is subject to the trademark
 license, especially commercial redistribution.
@@ -8934,53 +8937,53 @@ START: FULL LICENSE
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
-To protect the Project Gutenberg-tm mission of promoting the free
+To protect the Project Gutenberg™ mission of promoting the free
 distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
 www.gutenberg.org/license.
 
 Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
+Gutenberg™ electronic works
 
-1.A. By reading or using any part of this Project Gutenberg-tm
+1.A. By reading or using any part of this Project Gutenberg™
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement. If you do not agree to abide by all
 the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
+destroy all copies of Project Gutenberg™ electronic works in your
 possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
+Project Gutenberg™ electronic work and you do not agree to be bound
 by the terms of this agreement, you may obtain a refund from the
 person or entity to whom you paid the fee as set forth in paragraph
 1.E.8.
 
-1.B. "Project Gutenberg" is a registered trademark. It may only be
+1.B. “Project Gutenberg” is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
+things that you can do with most Project Gutenberg™ electronic works
 even without complying with the full terms of this agreement. See
 paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
 electronic works. See paragraph 1.E below.
 
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
 works in the collection are in the public domain in the United
 States. If an individual work is unprotected by copyright law in the
 United States and you are located in the United States, we do not
 claim a right to prevent you from copying, distributing, performing,
 displaying or creating derivative works based on the work as long as
 all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
 works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
+Project Gutenberg™ name associated with the work. You can easily
 comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
+same format with its attached full Project Gutenberg™ License when
 you share it without charge with others.
 
 1.D. The copyright laws of the place where you are located also govern
@@ -8989,17 +8992,17 @@ in a constant state of change. If you are outside the United States,
 check the laws of your country in addition to the terms of this
 agreement before downloading, copying, displaying, performing,
 distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
+other Project Gutenberg™ work. The Foundation makes no
 representations concerning the copyright status of any work in any
 country other than the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
 1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
 
   This eBook is for the use of anyone anywhere in the United States and
@@ -9010,89 +9013,89 @@ performed, viewed, copied or distributed:
   United States, you will have to check the laws of the country where
   you are located before using this eBook.
 
-1.E.2. If an individual Project Gutenberg-tm electronic work is
+1.E.2. If an individual Project Gutenberg™ electronic work is
 derived from texts not protected by U.S. copyright law (does not
 contain a notice indicating that it is posted with permission of the
 copyright holder), the work can be copied and distributed to anyone in
 the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
 either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
+obtain permission for the use of the work and the Project Gutenberg™
 trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any
 additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
+will be linked to the Project Gutenberg™ License for all works
 posted with the permission of the copyright holder found at the
 beginning of this work.
 
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
 License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
+work or any other work associated with Project Gutenberg™.
 
 1.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
+Gutenberg™ License.
 
 1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm website
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
 
 1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
+performing, copying or distributing any Project Gutenberg™ works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
+access to or distributing Project Gutenberg™ electronic works
 provided that:
 
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
+• You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method
   you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
+  to the owner of the Project Gutenberg™ trademark, but he has
   agreed to donate royalties under this paragraph to the Project
   Gutenberg Literary Archive Foundation. Royalty payments must be paid
   within 60 days following each date on which you prepare (or are
   legally required to prepare) your periodic tax returns. Royalty
   payments should be clearly marked as such and sent to the Project
   Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
+  Section 4, “Information about donations to the Project Gutenberg
+  Literary Archive Foundation.”
 
-* You provide a full refund of any money paid by a user who notifies
+• You provide a full refund of any money paid by a user who notifies
   you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
+  does not agree to the terms of the full Project Gutenberg™
   License. You must require such a user to return or destroy all
   copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
+  all use of and all access to other copies of Project Gutenberg™
   works.
 
-* You provide, in accordance with paragraph 1.F.3, a full refund of
+• You provide, in accordance with paragraph 1.F.3, a full refund of
   any money paid for a work or a replacement copy, if a defect in the
   electronic work is discovered and reported to you within 90 days of
   receipt of the work.
 
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
+• You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
 
 1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
+Gutenberg™ electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
 from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg-tm trademark. Contact the Foundation as set
+the Project Gutenberg™ trademark. Contact the Foundation as set
 forth in Section 3 below.
 
 1.F.
@@ -9100,19 +9103,19 @@ forth in Section 3 below.
 1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
 electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
 or corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
 cannot be read by your equipment.
 
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
 fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
@@ -9136,7 +9139,7 @@ the second copy is also defective, you may demand a refund in writing
 without further opportunities to fix the problem.
 
 1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
 OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
@@ -9151,34 +9154,34 @@ remaining provisions.
 
 1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
+providing copies of Project Gutenberg™ electronic works in
 accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
+production, promotion and distribution of Project Gutenberg™
 electronic works, harmless from all liability, costs and expenses,
 including legal fees, that arise directly or indirectly from any of
 the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
 Defect you cause.
 
-Section 2. Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg™
 
-Project Gutenberg-tm is synonymous with the free distribution of
+Project Gutenberg™ is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of
 computers including obsolete, old, middle-aged and new computers. It
 exists because of the efforts of hundreds of volunteers and donations
 from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
+assistance they need are critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will
 remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
+and permanent future for Project Gutenberg™ and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
+www.gutenberg.org.
 
 Section 3. Information about the Project Gutenberg Literary
 Archive Foundation
@@ -9186,20 +9189,20 @@ Archive Foundation
 The Project Gutenberg Literary Archive Foundation is a non-profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
+Revenue Service. The Foundation’s EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
 U.S. federal laws and your state's laws.
 
-The Foundation's business office is located at 809 North 1500 West,
+The Foundation’s business office is located at 809 North 1500 West,
 Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
-and official page at www.gutenberg.org/contact
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact.
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without
+Project Gutenberg™ depends upon and cannot survive without
 widespread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine-readable form accessible by the widest
@@ -9214,7 +9217,7 @@ considerable effort, much paperwork and many fees to meet and keep up
 with these requirements. We do not solicit donations in locations
 where we have not received written confirmation of compliance. To SEND
 DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
+state visit www.gutenberg.org/donate.
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -9228,26 +9231,26 @@ outside the United States. U.S. laws alone swamp our small staff.
 Please check the Project Gutenberg web pages for current donation
 methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
+donate, please visit: www.gutenberg.org/donate.
 
-Section 5. General Information About Project Gutenberg-tm electronic works
+Section 5. General Information About Project Gutenberg™ electronic works
 
 Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
+Gutenberg™ concept of a library of electronic works that could be
 freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
+distributed Project Gutenberg™ eBooks with only a loose network of
 volunteer support.
 
-Project Gutenberg-tm eBooks are often created from several printed
+Project Gutenberg™ eBooks are often created from several printed
 editions, all of which are confirmed as not protected by copyright in
 the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
 edition.
 
 Most people start at our website which has the main PG search
-facility: www.gutenberg.org
+facility: www.gutenberg.org.
 
-This website includes information about Project Gutenberg-tm,
+This website includes information about Project Gutenberg™,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
