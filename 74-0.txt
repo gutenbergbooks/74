@@ -2991,9 +2991,8 @@ then around him, confusedly. His eyes met Joe’s.
 
 “Lord, how is this, Joe?” he said.
 
-“It’s a dirty business,” said Joe, without moving.
-
-“What did you do it for?”
+“It’s a dirty business,” said Joe, without moving. “What did you do it
+for?”
 
 “I! I never done it!”
 
@@ -6836,11 +6835,12 @@ But the incidents of his adventure grew sensibly sharper and clearer
 under the attrition of thinking them over, and so he presently found
 himself leaning to the impression that the thing might not have been a
 dream, after all. This uncertainty must be swept away. He would snatch a
-hurried breakfast and go and find Huck. Huck was sitting on the gunwale
-of a flatboat, listlessly dangling his feet in the water and looking
-very melancholy. Tom concluded to let Huck lead up to the subject. If
-he did not do it, then the adventure would be proved to have been only a
-dream.
+hurried breakfast and go and find Huck.
+
+Huck was sitting on the gunwale of a flatboat, listlessly dangling his
+feet in the water and looking very melancholy. Tom concluded to let Huck
+lead up to the subject. If he did not do it, then the adventure would be
+proved to have been only a dream.
 
 “Hello, Huck!”
 
@@ -7518,7 +7518,7 @@ it—feebly:
 
 Poor Huck was too distressed to smile, but the old man laughed loud and
 joyously, shook up the details of his anatomy from head to foot, and
-ended by saying that such a laugh was money in a-man’s pocket, because
+ended by saying that such a laugh was money in a man’s pocket, because
 it cut down the doctor’s bill like everything. Then he added:
 
 “Poor old chap, you’re white and jaded—you ain’t well a bit—no wonder
@@ -7673,7 +7673,7 @@ Tavern since he had been ill.
 
 “Yes,” said the widow.
 
-Huck started up in bed, wildeyed:
+Huck started up in bed, wild-eyed:
 
 “What? What was it?”
 
@@ -8792,7 +8792,7 @@ Tom. Looky-here, Tom, being rich ain’t what it’s cracked up to be. It’s
 just worry and worry, and sweat and sweat, and a-wishing you was dead
 all the time. Now these clothes suits me, and this bar’l suits me, and
 I ain’t ever going to shake ’em any more. Tom, I wouldn’t ever got into
-all this trouble if it hadn’t ’a’ ben for that money; now you just take
+all this trouble if it hadn’t ’a’ been for that money; now you just take
 my sheer of it along with your’n, and gimme a ten-center sometimes—not
 many times, becuz I don’t give a dern for a thing ’thout it’s tollable
 hard to git—and you go and beg off for me with the widder.”
